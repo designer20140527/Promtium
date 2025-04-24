@@ -90,7 +90,8 @@ const Header = () => {
             
             {/* 连接钱包按钮 */}
             <Link 
-              href="/connect" 
+              href="https://platform.promtium.com/" 
+              target="_blank"
               className="bg-[#6A5AE0] text-white px-6 py-2.5 rounded-full text-sm font-medium hover:bg-[#5a4bc0] ml-2"
             >
               Dapp

@@ -72,7 +72,7 @@ const Hero = () => {
           
           {/* Button */}
           <div className="flex justify-center mb-6 sm:mb-8">
-            <Link href="/dapp">
+            <Link href="https://platform.promtium.com/" target="_blank">
               <button className="btn-primary text-sm sm:text-base py-2.5 sm:py-3 px-6 sm:px-8">Dapp</button>
             </Link>
           </div>
